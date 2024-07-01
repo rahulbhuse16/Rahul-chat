@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Rahul-chat/static/css/main.1a87d863.css",
-    "main.js": "/Rahul-chat/static/js/main.0f309e3f.js",
+    "main.css": "/Rahul-chat/static/css/main.1c38af3d.css",
+    "main.js": "/Rahul-chat/static/js/main.c340264c.js",
     "static/js/453.419a5d54.chunk.js": "/Rahul-chat/static/js/453.419a5d54.chunk.js",
     "static/media/no-contacts.jpg": "/Rahul-chat/static/media/no-contacts.8cf94752ad10451d6e26.jpg",
     "index.html": "/Rahul-chat/index.html",
-    "main.1a87d863.css.map": "/Rahul-chat/static/css/main.1a87d863.css.map",
-    "main.0f309e3f.js.map": "/Rahul-chat/static/js/main.0f309e3f.js.map",
+    "main.1c38af3d.css.map": "/Rahul-chat/static/css/main.1c38af3d.css.map",
+    "main.c340264c.js.map": "/Rahul-chat/static/js/main.c340264c.js.map",
     "453.419a5d54.chunk.js.map": "/Rahul-chat/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a87d863.css",
-    "static/js/main.0f309e3f.js"
+    "static/css/main.1c38af3d.css",
+    "static/js/main.c340264c.js"
   ]
 }
